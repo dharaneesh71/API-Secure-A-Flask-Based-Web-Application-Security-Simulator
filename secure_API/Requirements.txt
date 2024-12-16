@@ -1,0 +1,4 @@
+Flask ==2.2.3
+SQLAlchemy ==1.4.46
+bleach ==6.1.0
+Flask-Limiter ==2.7.0
